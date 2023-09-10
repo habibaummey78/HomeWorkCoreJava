@@ -1,7 +1,7 @@
 package hw4JavaVariablesInitialized;
 
 public class AboutMe {
-	
+
 	// declared variable
 	public String aboutMyself;
 
@@ -23,10 +23,9 @@ public class AboutMe {
 
 	public void aboutMe() {
 
-		System.out.println("My Name: " + myName + "\nMy Age: " + myAge + "\nMy House Number: "
-				+ houseNumber + "\nMy StreetNumber: " + streetNumber + "\nMy Bank Account: " + bankAcct
-				+ "\nMy Height: " + height + "\nMy GPA: " + gpa + "\nMy Gender: " + myGender
-				+ "\nAm I married? Ans: " + married);
+		System.out.println("My Name: " + myName + "\nMy Age: " + myAge + "\nMy House Number: " + houseNumber
+				+ "\nMy StreetNumber: " + streetNumber + "\nMy Bank Account: " + bankAcct + "\nMy Height: " + height
+				+ "\nMy GPA: " + gpa + "\nMy Gender: " + myGender + "\nAm I married? Ans: " + married);
 
 	}
 

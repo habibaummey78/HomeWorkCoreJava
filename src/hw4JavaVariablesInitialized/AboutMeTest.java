@@ -7,12 +7,7 @@ public class AboutMeTest {
 		// AboutMe class instantiation
 		AboutMe obj = new AboutMe();
 
-		
-
 		obj.aboutMe();
-		
-
-
 
 	}
 

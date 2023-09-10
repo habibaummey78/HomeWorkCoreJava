@@ -22,7 +22,7 @@ public class AboutMeTest {
 		ummey.aboutMe();
 
 		// constructor initialized
-	
+
 		AboutMe alex = new AboutMe();
 
 		// variable initialized
@@ -35,9 +35,9 @@ public class AboutMeTest {
 		alex.myGrade = 7.974653;
 		alex.myGender = 'M';
 		alex.usCitizen = true;
-		
-		//method initialized
+
+		// method initialized
 		alex.aboutMe();
 
-}
+	}
 }
