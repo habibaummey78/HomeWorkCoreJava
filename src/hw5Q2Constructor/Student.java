@@ -1,8 +1,5 @@
 package hw5Q2Constructor;
 
-import javax.print.attribute.standard.Chromaticity;
-import javax.swing.DefaultBoundedRangeModel;
-
 public class Student {
 
 	// variables declared
