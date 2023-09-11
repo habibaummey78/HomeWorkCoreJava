@@ -6,7 +6,7 @@ public class ComputerTest {
 
 		// default Constructor initialized
 
-		Computer computer = new Computer();
+		Computer computer = new Computer ();
 
 		// parameterized constructor initialized
 
