@@ -1,6 +1,6 @@
-package hw10Abstraction;
+package hw12Abstraction;
 
-public abstract class MedicalSchool extends NursingSchool {
+public abstract class MedicalSchool extends NursingSchool implements LawSchool {
 
 	// Method is declared and it is an abstract method
 	public abstract void anatomyLab();
